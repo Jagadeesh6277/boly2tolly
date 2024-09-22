@@ -1,0 +1,8 @@
+my-kodi-repo/
+├── addons.xml
+├── addons.xml.md5
+└── repository.bolly2tolly/
+    ├── addon.xml
+    ├── icon.png (optional)
+    ├── fanart.jpg (optional)
+    └── repository.bolly2tolly-1.0.0.zip
